@@ -1,4 +1,5 @@
 {
-	"brightness": 100
-	"image_quality": "1080p"
+	"brightness": 100,
+	"image_quality": "1080p",
+	"max_fps": "Infinity"
 }
